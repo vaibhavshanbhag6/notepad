@@ -18,7 +18,7 @@ https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/chunks.m3
 https://m-c01-j2apps.s.llnwi.net/hls/5412.TV5Kannada.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-name="Aaj Tak Hd" tvg-logo="https://pbs.twimg.com/profile_images/1074193570712772608/ecNRga9j_400x400.jpg" group-title="News",Aaj Tak Hd
-https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_6.m3u8
+https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/aajtakhd_5/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="Aaj Tak Sd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png" group-title="News",Aaj Tak Sd
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/aajtak_5/chunklist.m3u8
