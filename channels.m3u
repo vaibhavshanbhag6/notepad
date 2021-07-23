@@ -1,11 +1,11 @@
+#EXTINF:-1 tvg-name="Mastii Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/33/Mastiii_tv_channel.png" group-title="Music",Mastii Music
+https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in_480p/index.m3u8
+
 #EXTINF:-1 tvg-name="Zoom" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0069.Zoom.in/en/1x1/208x208/test_pic1550666525581.jpg" group-title="Music",Zoom
 https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
 
 #EXTINF:-1 tvg-name="9xm" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" group-title="Music",9xm
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
-
-#EXTINF:-1 tvg-name="Mastii Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/33/Mastiii_tv_channel.png" group-title="Music",Mastii Music
-https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in_480p/index.m3u8
 
 
 #EXTINF:-1 tvg-id="753" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="Music",MTV Beats HD
