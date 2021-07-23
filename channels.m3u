@@ -23,7 +23,7 @@ https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/aa
 #EXTINF:-1 tvg-name="Aaj Tak Sd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png" group-title="News",Aaj Tak Sd
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/aajtak_5/chunklist.m3u8
 
-#EXTINF:-1 tvg-name="Abp News" tvg-logo="https://content.vidgyor.com/live/abp_hindi.jpg" group-title="News",Abp News
+#EXTINF:-1 tvg-name="Abp News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/ABP_News_Logo.png" group-title="News",Abp News
 https://m-c02-j2apps.s.loris.llnwd.net/hls/7014.ABPNews.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-name="Ndtv India" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/NDTV_India.png" group-title="News",Ndtv India
