@@ -1,22 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="TV9 Karnataka" tvg-logo="https://snoidcdnems06.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Karnataka.png" group-title="News",TV9 Karnataka
-https://6b7fe5bdbc9c445fb7c09609cb3e244c.mediatailor.ap-southeast-1.amazonaws.com/v1/manifest/3b48e218addf61132f4eb1c584495b7308b8fafa/tv9kannada-live-prod/e4ac3aca-85d1-4c8f-93a8-91100bcbd3f0/3.m3u8
-
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://snoidcdnems06.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BTV.png" group-title="News",BTV
-https://m-c047-j2apps.s.llnwi.net/hls/4969.BTV.in_480p/index.m3u8
-
-#EXTINF:-1 tvg-name="Public TV" tvg-logo="https://snoidcdnems06.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Public_TV.png" group-title="News",Public TV
-https://stream-03.sg1.dailymotion.com/sec(LWxkRxSld-NF2-DYw1tVj34lXuTV5QI-JNfwgYJ_Wpw)/dm/3/x7rs4mq/s/live-3.m3u8
-
-#EXTINF:-1 tvg-name="News 18 Kannada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/News18_Kannada_logo.jpeg" group-title="News",News 18 Kannada
-https://news18kannada-lh.akamaihd.net/i/n18kannada_1@372918/index_5_av-p.m3u8
-
-#EXTINF:-1 tvg-name="Suvarna News Kannada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Suvarna_News_New_Logo.jpg" group-title="News",Suvarna News Kannada
-https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/chunks.m3u8
-
-#EXTINF:-1 tvg-name="TV5 Kannada" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/TV5_Kannada.jpg" group-title="News",TV5 Kannada
-https://m-c01-j2apps.s.llnwi.net/hls/5412.TV5Kannada.in_480p/index.m3u8
-
 #EXTINF:-1 tvg-name="Aaj Tak Hd" tvg-logo="https://pbs.twimg.com/profile_images/1074193570712772608/ecNRga9j_400x400.jpg" group-title="News",Aaj Tak Hd
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/aajtakhd_5/chunklist.m3u8
 
@@ -26,11 +8,23 @@ https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/aajtak_5
 #EXTINF:-1 tvg-name="Abp News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/ABP_News_Logo.png" group-title="News",Abp News
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/master_1564.m3u8
 
-#EXTINF:-1 tvg-name="Ndtv India" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/NDTV_India.png" group-title="News",Ndtv India
-https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/masterp_480p@3.m3u8
+#EXTINF:-1 tvg-name="TV9 Karnataka" tvg-logo="https://snoidcdnems06.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Karnataka.png" group-title="News",TV9 Karnataka
+https://6b7fe5bdbc9c445fb7c09609cb3e244c.mediatailor.ap-southeast-1.amazonaws.com/v1/manifest/3b48e218addf61132f4eb1c584495b7308b8fafa/tv9kannada-live-prod/e4ac3aca-85d1-4c8f-93a8-91100bcbd3f0/3.m3u8
 
-#EXTINF:-1 tvg-name="Zee News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zee_news.svg/1200px-Zee_news.svg.png" group-title="News",Zee News
-https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_6.m3u8
+#EXTINF:-1 tvg-name="BTV" tvg-logo="https://snoidcdnems06.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BTV.png" group-title="News",BTV
+https://m-c047-j2apps.s.llnwi.net/hls/4969.BTV.in_480p/index.m3u8
+
+#EXTINF:-1 tvg-name="Suvarna News Kannada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Suvarna_News_New_Logo.jpg" group-title="News",Suvarna News Kannada
+https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Public TV" tvg-logo="https://snoidcdnems06.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Public_TV.png" group-title="News",Public TV
+https://stream-03.sg1.dailymotion.com/sec(LWxkRxSld-NF2-DYw1tVj34lXuTV5QI-JNfwgYJ_Wpw)/dm/3/x7rs4mq/s/live-3.m3u8
+
+#EXTINF:-1 tvg-name="News 18 Kannada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/News18_Kannada_logo.jpeg" group-title="News",News 18 Kannada
+https://news18kannada-lh.akamaihd.net/i/n18kannada_1@372918/index_5_av-p.m3u8
+
+#EXTINF:-1 tvg-name="TV5 Kannada" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/TV5_Kannada.jpg" group-title="News",TV5 Kannada
+https://m-c01-j2apps.s.llnwi.net/hls/5412.TV5Kannada.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-name="News18 India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/News_18_India.png" group-title="News",News18 India
 https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
@@ -38,11 +32,17 @@ https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
 #EXTINF:-1 tvg-name="India TV" tvg-logo="https://static.indiatvnews.com/ins-web/images/lazy.jpg" group-title="News",India TV
 https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8
 
+#EXTINF:-1 tvg-name="Zee News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zee_news.svg/1200px-Zee_news.svg.png" group-title="News",Zee News
+https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_6.m3u8
+
 #EXTINF:-1 tvg-name="Republic TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Republic_TV.jpg/200px-Republic_TV.jpg" group-title="News",Republic TV
 https://weblive.republicworld.com/liveorigin/republictv/master_hdlive_360p.m3u8
 
 #EXTINF:-1 tvg-name="Republic Bharat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Republic_Bharat_Logo.jpg" group-title="News",Republic Bharat
 https://webliverb.republicworld.com/live/bharat_hls/masterlive_360p.m3u8
+
+#EXTINF:-1 tvg-name="Ndtv India" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/NDTV_India.png" group-title="News",Ndtv India
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/masterp_480p@3.m3u8
 
 #EXTINF:-1 tvg-name="Tv9 Bharatvarsh" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-251/list/09251tv9bharatvarsh.jpg" group-title="News",Tv9 Bharatvarsh
 https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live1/chunks.m3u8
