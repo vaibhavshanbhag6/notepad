@@ -6,7 +6,7 @@ https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/aajtak_5
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/aajtakhd_5/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="Abp News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/ABP_News_Logo.png" group-title="News",Abp News
-https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_6.m3u8
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/master_1564.m3u8
 
 #EXTINF:-1 tvg-name="TV9 Karnataka" tvg-logo="https://snoidcdnems06.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Karnataka.png" group-title="News",TV9 Karnataka
 https://6b7fe5bdbc9c445fb7c09609cb3e244c.mediatailor.ap-southeast-1.amazonaws.com/v1/manifest/3b48e218addf61132f4eb1c584495b7308b8fafa/tv9kannada-live-prod/e4ac3aca-85d1-4c8f-93a8-91100bcbd3f0/3.m3u8
