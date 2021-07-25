@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Aaj Tak Sd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png" group-title="News",Aaj Tak Sd
+#EXTINF:-1 tvg-name="Aaj Tak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png" group-title="News",Aaj Tak
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/aajtak_5/chunklist.m3u8
 
-#EXTINF:-1 tvg-name="Aaj Tak Hd" tvg-logo="https://pbs.twimg.com/profile_images/1074193570712772608/ecNRga9j_400x400.jpg" group-title="News",Aaj Tak Hd
+#EXTINF:-1 tvg-name="Aaj Tak HD" tvg-logo="https://pbs.twimg.com/profile_images/1074193570712772608/ecNRga9j_400x400.jpg" group-title="News",Aaj Tak HD
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/aajtakhd_5/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="Abp News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/ABP_News_Logo.png" group-title="News",Abp News
