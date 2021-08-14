@@ -18,12 +18,12 @@ https://m-c047-j2apps.s.llnwi.net/hls/4969.BTV.in_480p/index.m3u8
 https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/chunks.m3u8
 
 #EXTINF:-1 tvg-name="Dighvijay TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dighvijay_TV.png" group-title="News",Dighvijay TV
-https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/playlist.m3u8
+https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/dighvijay-origin/live1/chunks.m3u8
 
 #EXTINF:-1 tvg-name="Public TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Public_TV.png" group-title="News",Public TV
 https://stream-03.sg1.dailymotion.com/sec(LWxkRxSld-NF2-DYw1tVj34lXuTV5QI-JNfwgYJ_Wpw)/dm/3/x7rs4mq/s/live-3.m3u8
 
-#EXTINF:-1 tvg-name="News 18 Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Kannada_News.png" group-title="News",News 18 Kannada
+#EXTINF:-1 tvg-name="News18 Kannada News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Kannada_News.png" group-title="News",News 18 Kannada
 https://news18kannada-lh.akamaihd.net/i/n18kannada_1@372918/index_5_av-p.m3u8
 
 #EXTINF:-1 tvg-name="TV5 Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV_5_Kannada.png" group-title="News",TV5 Kannada
@@ -64,3 +64,6 @@ https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/
 
 #EXTINF:-1 tvg-name="NDTV 24x7" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png" group-title="News",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8
+
+#EXTINF:-1 tvg-name="Dighvijay TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dighvijay_TV.png" group-title="News",Dighvijay TV
+https://video.fblr5-1.fna.fbcdn.net/hvideo-odn-cln/_nc_cat-110/v/rZ2zUEGrX8VtxeFqHhhDm/pbef-1/_nc_ohc-VqSdGp79whQAX9a8jwN/live-dash/dash-abr-ibr-audio/1428132387660830.mpd?_nc_rl=AfBiOk1Rgja0wEx7ayY&ccb=2-4&ms=m_CTPA&oh=e34a6d3f1a5e3a6a569035400d8922f6&oe=61193739
