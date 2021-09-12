@@ -42,7 +42,7 @@ https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/ind
 https://weblive.republicworld.com/liveorigin/republictv/master_hdlive_360p.m3u8
 
 #EXTINF:-1 tvg-name="Republic Bharat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Republic_Bharat_Logo.jpg" group-title="News",Republic Bharat
-https://webliverb.republicworld.com/live/bharat_hls/masterlive_360p.m3u8
+https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8
 
 #EXTINF:-1 tvg-name="Tez" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Tez.png" group-title="News",Tez
 https://tezlive-amd.akamaized.net/hls/live/2016145/tez/tezlive/tez_4/chunklist.m3u8
