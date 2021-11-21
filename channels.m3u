@@ -3,7 +3,7 @@
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/aajtak_5/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="Aaj Tak HD" tvg-logo="https://i.ibb.co/QDsZHjW/aajhd-removebg-preview.png" group-title="News",Aaj Tak HD
-https://aajtakhdlive-amd.akamaized.net/hls/live/2014415-b/aajtakhd/aajtakhdlive/aajtakhd_5/chunklist.m3u8
+https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/aajtakhd_5/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="Abp News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="News",Abp News
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/master_1564.m3u8
