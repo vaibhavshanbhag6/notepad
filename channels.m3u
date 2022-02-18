@@ -76,3 +76,6 @@ https://vidcdn.vidgyor.com/tv9kannada-origin/live/playlist.m3u8
 
 #EXTINF:-1 tvg-name="BTV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/BTV.png" group-title="News",BTV
 https://m-c047-j2apps.s.llnwi.net/hls/4969.BTV.in_480p/index.m3u8
+
+#EXTINF:-1 tvg-name="Public TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Public_TV.png" group-title="News",Public TV
+https://livestream.knowtable.xyz:5443/show/streams/Publictv_480p1000kbps.m3u8
