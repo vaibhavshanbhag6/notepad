@@ -22,7 +22,7 @@ https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/chunks.m3
 https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/dighvijay-origin/live1/chunks.m3u8
 
 #EXTINF:-1 tvg-name="Public TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Public_TV.png" group-title="News",Public TV
-https://livestream.knowtable.xyz:5443/show/streams/Publictv_720p1500kbps.m3u8
+https://livestream.knowtable.xyz:5443/Publictv/streams/Publictv_720p2500kbps.m3u8
 #http://103.199.161.254/Content/publictv/Live/Channel(PublicTV)/index.m3u8
 
 #EXTINF:-1 tvg-name="News18 Kannada News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Kannada_News.png" group-title="News",News 18 Kannada
