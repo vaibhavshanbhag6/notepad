@@ -70,7 +70,7 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p
 #EXTINF:-1 tvg-name="Al Jazeera English" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/Al-Jazeera-Logo.png" group-title="News",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1 tvg-name="France 24 English" tvg-logo="https://w7.pngwing.com/pngs/662/561/png-transparent-france-24-journalist-television-news-france-television-blue-text-thumbnail.png" group-title="News",France 24 English
+#EXTINF:-1 tvg-name="France 24 English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpeZbqjIJXOlWWb7vjq7VvzQIvK7lLg3DMag&usqp=CAU" group-title="News",France 24 English
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 
 #EXTINF:-1 tvg-name="CNBC Awaaz" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Awaaz.png" group-title="News",CNBC Awaaz
