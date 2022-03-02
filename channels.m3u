@@ -73,7 +73,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1646241459/ei/U
 #EXTINF:-1 tvg-name="ABC News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrt7_JPrn1TAucT85W7Ni22A2LTZM4jhdcSQ&usqp=CAU" group-title="News",ABC News
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1646242132/ei/9FQfYteZMfXQz7sP2sucuAc/ip/117.222.106.157/id/w_Ma8oQLmSM.7/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgORS481yKWvETSWT9D3VuwhffHI4vZWhDBqoRVvHLgxICIH5kv5GMeXdEe5LC_6gB2SAJZr1EQAAEzD7T4WOiACNS/file/index.m3u8
 
-#EXTINF:-1 tvg-name="Al Jazeera English" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/Al-Jazeera-Logo.png" group-title="News",Al Jazeera English
+#EXTINF:-1 tvg-name="Al Jazeera English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSWUC1XEN9_RtfZ6mUX_oN3jo1UuB-KU3tweyxPLb4=s900-c-k-c0x00ffffff-no-rj" group-title="News",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 #EXTINF:-1 tvg-name="France 24 English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpeZbqjIJXOlWWb7vjq7VvzQIvK7lLg3DMag&usqp=CAU" group-title="News",France 24 English
