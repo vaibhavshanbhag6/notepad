@@ -74,6 +74,7 @@ https://siloh.pluto.tv/lilo/production/SkyNews/master_1.m3u8
 
 #EXTINF:-1 tvg-name="ABC News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrt7_JPrn1TAucT85W7Ni22A2LTZM4jhdcSQ&usqp=CAU" group-title="News",ABC News
 https://content-aaps1.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be/d.m3u8?rays=hjigfedcba&ad.flex=15&ad.access_level=0&expand=drmOff&v=3&ad.adunit=/abc-news/abcnews.com/web/video&ad=abcnews_live&ad.pp=datg-live-vdms&ad.v=2&ad.is_lat=0&ad.npa=0&ad.tfcd=0&ad.vast3=1&ad.vid=$program_id&ad.description_url=https://abcnews.go.com/&ad.ppid=&ad.us_privacy=&ad.cust_params=chan%3Dabc%26beacTyp%3Dssai%26stp%3Dvdms%26ait%3Dssai%26vdm%3Dlive%26var%3D16x9%26accesslevel%3D0%26isAuth%3D0%26lang%3Den%26aff%3Dabc%26swid%3D%26tag%3D%26objid%3Dabc_live11%26refDomain%3Dhttps%3A%2F%2Fabcnews.go.com%2FLive%2F&ad.adUnit=/abc-news/abcnews.com/web/video&pbs=985b9758cc24485582ee6bdaa9fd799d
+
 #EXTINF:-1 tvg-name="FOX News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1024px-Fox_News_Channel_logo.svg.png" group-title="News",FOX News
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 
