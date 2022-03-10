@@ -82,9 +82,6 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-name="France 24 English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI8u5HTbxklYHm591uIHGX1reyEwgjdIlEZw&usqp=CAU" group-title="News",France 24 English
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 
-#EXTINF:-1 tvg-name="WION News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBvXlXJwyYt7Cthj944mhKWtdb8RZzfuYLrxOhk3dzFdbbWFF8_60tuq3_wdpbOfmpHZ8&usqp=CAU" group-title="News",WION News
-https://d3neuepii3rf1i.cloudfront.net/v1/manifest/8fe6b38eb3580727128fa5d6759fbc48b3ec1c7e/Zee_News_MT_POC/8e679cde-e5e8-4476-9583-662261f6b18d/4.m3u8
-
 #EXTINF:-1 tvg-name="Bloomberg" tvg-logo="https://www.charteris.co.uk/wp-content/uploads/2019/07/bloomberg-news-logoorangebg.png" group-title="News",Bloomberg
 https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 
