@@ -79,9 +79,6 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSWUC1XEN9_RtfZ6mUX_oN3jo1UuB-KU3tweyxPLb4=s900-c-k-c0x00ffffff-no-rj" group-title="News",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1 tvg-name="France 24 English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI8u5HTbxklYHm591uIHGX1reyEwgjdIlEZw&usqp=CAU" group-title="News",France 24 English
-http://static.france24.com/live/F24_EN_HI_HLS/live_tv.m3u8
-
 #EXTINF:-1 tvg-name="Bloomberg" tvg-logo="https://www.charteris.co.uk/wp-content/uploads/2019/07/bloomberg-news-logoorangebg.png" group-title="News",Bloomberg
 https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 
