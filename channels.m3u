@@ -16,7 +16,8 @@ https://vidcdn.vidgyor.com/tv9kannada-origin/live/playlist.m3u8
 https://vidcdn.vidgyor.com/btv-origin/liveabr/btv-origin/live1/chunks.m3u8
 
 #EXTINF:-1 tvg-name="Suvarna News Kannada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Suvarna_News_New_Logo.jpg" group-title="News",Suvarna News Kannada
-https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/chunks.m3u8
+https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live_240p/chunks.m3u8
+#https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/chunks.m3u8
 #https://vidgyormedia.pc.cdn.bitgravity.com/suvarna-origin/liveabr/suvarna-origin/live1/chunks.m3u8
 
 #EXTINF:-1 tvg-name="Dighvijay TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dighvijay_TV.png" group-title="News",Dighvijay TV
