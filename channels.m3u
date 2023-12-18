@@ -19,7 +19,7 @@ https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live_360p/chunk
 #https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/chunks.m3u8
 #https://vidgyormedia.pc.cdn.bitgravity.com/suvarna-origin/liveabr/suvarna-origin/live1/chunks.m3u8
 
-#EXTINF:-1 tvg-name="Dighvijay TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dighvijay_TV.png" group-title="News",Dighvijay TV
+#EXTINF:-1 tvg-name="Dighvijay TV" tvg-logo="https://img.republicworld.com/republic-prod/logo/169511698365096eb74a4f5.jpg" group-title="News",Dighvijay TV
 https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/dighvijay-origin/live1/chunks.m3u8
 
 #EXTINF:-1 tvg-name="Public TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Public_TV.png" group-title="News",Public TV
