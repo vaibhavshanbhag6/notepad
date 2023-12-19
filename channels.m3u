@@ -29,6 +29,9 @@ https://livestream.knowtable.xyz:5443/show/streams/Publictv.m3u8
 #EXTINF:-1 tvg-name="News18 Kannada News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Kannada_News.png" group-title="News",News 18 Kannada
 https://nw18live.cdn.jio.com/bpk-tv/News18_Kannada_NW18_MOB/output01/News18_Kannada_NW18.m3u8
 
+#EXTINF:-1 tvg-name="Zee Kannada News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Kannada_News.png" group-title="News",Zee Kannada News
+https://d3vzwoqcbpfm8p.cloudfront.net/index_4.m3u8
+
 ##EXTINF:-1 tvg-name="TV5 Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV_5_Kannada.png" group-title="News",TV5 Kannada
 #https://yuppirecloriginvt.akamaized.net/270422/smil:tv5kannada.smil/playlist.m3u8?hdnts=st=1652989357~exp=1652992957~acl=!*/270422/smil:tv5kannada.smil/*!/payload/yuppTVCom_61_-1_b1e9dc3ed61f45a3_IN_117.222.96.40/*~hmac=371ce23db50481f4ba1a4ff3c47714a9097b1282ec3e4067aee4e5dd18cbaa11
 
