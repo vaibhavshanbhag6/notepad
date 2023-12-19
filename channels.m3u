@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Aaj Tak" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png" group-title="News",Aaj Tak
 https://aajtak.vvsfkrt.workers.dev/stream/aajtak/master.m3u8
-#https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-name="Aaj Tak HD" tvg-logo="https://i.ibb.co/QDsZHjW/aajhd-removebg-preview.png" group-title="News",Aaj Tak HD
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_720p/chunks.m3u8
