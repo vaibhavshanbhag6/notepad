@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Aaj Tak" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png" group-title="News",Aaj Tak
-https://aajtak.vvsfkrt.workers.dev/stream/@aajtak/master.m3u8
+https://aajtak.vvsfkrt.workers.dev/stream/aajtak/master.m3u8
 #https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-name="Aaj Tak HD" tvg-logo="https://i.ibb.co/QDsZHjW/aajhd-removebg-preview.png" group-title="News",Aaj Tak HD
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-name="Abp News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="News",Abp News
-https://abpnews.vvsfkrt.workers.dev/stream/@ABPNEWS/master.m3u8
+https://abpnews.vvsfkrt.workers.dev/stream/abpnews/master.m3u8
 #https://abplivetv.akamaized.net/hls/live/2043010/hindi/master_720p.m3u8
 
 #EXTINF:-1 tvg-name="TV9 Karnataka" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Karnataka.png" group-title="News",TV9 Karnataka
@@ -39,7 +39,7 @@ https://d3vzwoqcbpfm8p.cloudfront.net/index_4.m3u8
 https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_NW18_MOB.m3u8
 
 #EXTINF:-1 tvg-name="India TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_TV.png" group-title="News",India TV
-https://indiatv.vvsfkrt.workers.dev/stream/@IndiaTV/master.m3u8
+https://indiatv.vvsfkrt.workers.dev/stream/indiatv/master.m3u8
 #https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8
 
 #EXTINF:-1 tvg-name="Zee News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png" group-title="News",Zee News
@@ -67,7 +67,7 @@ https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8
 
 #EXTINF:-1 tvg-name="Sky News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRiAXxVDD_eBizXQutZSbxTQsRse4QsXv2kw&usqp=CAU" group-title="News",Sky News
-https://skynews.vvsfkrt.workers.dev/stream/@SkyNews/master.m3u8
+https://skynews.vvsfkrt.workers.dev/stream/skynews/master.m3u8
 
 #EXTINF:-1 tvg-name="ABC News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrt7_JPrn1TAucT85W7Ni22A2LTZM4jhdcSQ&usqp=CAU" group-title="News",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
