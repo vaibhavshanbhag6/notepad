@@ -20,7 +20,8 @@ https://vidcdn.vidgyor.com/btv-origin/liveabr/btv-origin/live1/chunks.m3u8
 https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live_360p/chunks.m3u8
 
 #EXTINF:-1 tvg-name="Republic Kannada" tvg-logo="https://img.republicworld.com/republic-prod/logo/169511698365096eb74a4f5.jpg" group-title="News",Republic Kannada
-https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/dighvijay-origin/live1/chunks.m3u8
+https://rkannada.republicworld.com/republic/live/amlst:Kannada_live_,b1150,b1328,b2081,b5179,.smil/chunklist.m3u8
+#https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/dighvijay-origin/live1/chunks.m3u8
 
 #EXTINF:-1 tvg-name="Public TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Public_TV.png" group-title="News",Public TV
 https://livestream.knowtable.xyz:5443/show/streams/Publictv.m3u8
@@ -48,7 +49,7 @@ https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 #EXTINF:-1 tvg-name="Republic TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png" group-title="News",Republic TV
 https://weblive.republicworld.com/httppush/ottr_republic_english/chunklist_3.m3u8
 
-#EXTINF:-1 tvg-name="Republic Bharat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Republic_Bharat_Logo.jpg" group-title="News",Republic Bharat
+#EXTINF:-1 tvg-name="Republic Bharat" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_Bharat.png" group-title="News",Republic Bharat
 https://webliverb.republicworld.com/httppush/ottrb_republic_hindi/chunklist_3.m3u8
 
 #EXTINF:-1 tvg-name="Tez" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Tez.png" group-title="News",Tez
@@ -75,7 +76,7 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-name="FOX News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1024px-Fox_News_Channel_logo.svg.png" group-title="News",FOX News
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 
-#EXTINF:-1 tvg-name="Al Jazeera English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWFbf-wruDH_chZDIr9_6qGY-Ky5es062u0g&usqp=CAU" group-title="News",Al Jazeera English
+#EXTINF:-1 tvg-name="Al Jazeera English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AL_Jazeera.png" group-title="News",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 #EXTINF:-1 tvg-name="Bloomberg" tvg-logo="https://www.charteris.co.uk/wp-content/uploads/2019/07/bloomberg-news-logoorangebg.png" group-title="News",Bloomberg
