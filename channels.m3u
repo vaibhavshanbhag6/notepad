@@ -70,7 +70,7 @@ https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/
 https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/live_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-name="Times Now Navbharat" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_Navbharat.png" group-title="News",Times Now Navbharat
-https://dai.google.com/linear/hls/pb/event/RDtRdeJUTfuRKDtZcZfZew/stream/866378b6-ea55-4c13-a9c1-6598beacd150:TPE/variant/9ea09de9f1c09fc5967ee82cab7ef7e4/bandwidth/2736800.m3u8
+https://dp8vjjam4foas.cloudfront.net/master_1.m3u8
 
 #EXTINF:-1 tvg-name="NDTV 24x7" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png" group-title="News",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8
@@ -105,11 +105,26 @@ https://livetv.sli.ke/etnow/master_1.m3u8
 #EXTINF:-1 tvg-name="TV9 Karnataka" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Karnataka.png" group-title="News",TV9 Karnataka
 https://tv9.vvsfkrt.workers.dev/stream/@tv9kannada/master.m3u8
 
+#EXTINF:-1 tvg-name="9XM" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png" group-title="Music",9XM
+https://dishtv-test.akamaized.net/111122/9xmusic/111122/9xmusic_1800/chunks.m3u8
+
+#EXTINF:-1 tvg-name="MTV Beats HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="Music",MTV Beats HD
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/MTV_Beats_HD_voot_MOB.m3u8
+
 #EXTINF:-1 tvg-name="Sony HD" tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/SET-HD-Logo.png" group-title="Entertainment",Sony HD
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 
+#EXTINF:-1 tvg-name="Colors HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment",Colors HD
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/Colors_HD_voot_MOB.m3u8
+
 #EXTINF:-1 tvg-name="Sony Sab HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867316278001.png" group-title="Entertainment",Sony Sab HD
 https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+
+#EXTINF:-1 tvg-name="Comedy Central HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png" group-title="Entertainment",Comedy Central HD
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Comedy_Central_HD_voot_MOB/Fallback/Comedy_Central_HD_voot_MOB.m3u8
+
+#EXTINF:-1 tvg-name="MTV HD Plus" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="Entertainment",MTV HD Plus
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/MTV_HD_Plus_voot_MOB.m3u8
 
 #EXTINF:-1 tvg-name="Sony Six HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonySIXHD_Masthead_Logo.png" group-title="Sports",Sony Six HD
 https://pubads.g.doubleclick.net/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
@@ -122,6 +137,18 @@ https://pubads.g.doubleclick.net/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
 
 #EXTINF:-1 tvg-name="Sony Ten 3 HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN3HD_Masthead_Logo.png" group-title="Sports",Sony Ten 3 HD
 https://pubads.g.doubleclick.net/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+
+#EXTINF:-1 tvg-name="Sports 18 HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="Sports",Sports 18 HD
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/Sports18_1_HD_voot_MOB.m3u8
+
+#EXTINF:-1 tvg-name="Sports 18 Khel" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_Khel.png" group-title="Sports",Sports 18 Khel
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/Sports18_Khel_voot_MOB.m3u8
+
+#EXTINF:-1 tvg-name="Star Sports 1" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1.png" group-title="Sports",Star Sports 1
+https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Star Sports 2" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_2.png" group-title="Sports",Star Sports 2
+https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports2.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="Sony Six SD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonySIX_Masthead_Logo.png" group-title="Sports",Sony Six SD
 https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
