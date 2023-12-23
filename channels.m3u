@@ -66,6 +66,12 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgt
 #EXTINF:-1 tvg-name="India Today" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_Today.png" group-title="News",India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8
 
+#EXTINF:-1 tvg-name="Times Now" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Times_NOW.png" group-title="News",Times Now
+https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/live_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Times Now Navbharat" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_Navbharat.png" group-title="News",Times Now Navbharat
+https://dai.google.com/linear/hls/pb/event/RDtRdeJUTfuRKDtZcZfZew/stream/866378b6-ea55-4c13-a9c1-6598beacd150:TPE/variant/9ea09de9f1c09fc5967ee82cab7ef7e4/bandwidth/2736800.m3u8
+
 #EXTINF:-1 tvg-name="NDTV 24x7" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png" group-title="News",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8
 
@@ -94,7 +100,7 @@ https://dwby15d04agvq.cloudfront.net/index_5.m3u8
 https://nw18live.cdn.jio.com/bpk-tv/CNBC_TV18_NW18_MOB/output01/CNBC_TV18_NW18_MOB.m3u8
 
 #EXTINF:-1 tvg-name="ET Now" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ET_Now.png" group-title="News",ET Now
-https://dai.google.com/linear/hls/pb/event/ZBBu7nCkQE2fNkDxXdWwIA/stream/3b2a3f2d-b965-43e2-84fa-2f3872596e99:TPE/variant/c085b2f1e6cc1a7ba665dfde9971b504/bandwidth/5054132.m3u8
+https://livetv.sli.ke/etnow/master_1.m3u8
 
 #EXTINF:-1 tvg-name="TV9 Karnataka" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Karnataka.png" group-title="News",TV9 Karnataka
 https://tv9.vvsfkrt.workers.dev/stream/@tv9kannada/master.m3u8
