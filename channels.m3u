@@ -57,6 +57,9 @@ https://weblive.republicworld.com/httppush/ottr_republic_english/chunklist_3.m3u
 #EXTINF:-1 tvg-name="Republic Bharat" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_Bharat.png" group-title="News",Republic Bharat
 https://webliverb.republicworld.com/httppush/ottrb_republic_hindi/chunklist_3.m3u8
 
+#EXTINF:-1 tvg-name="CNN News 18" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNN_NEWS_18.png" group-title="News",CNN News 18
+https://nw18live.cdn.jio.com/bpk-tv/CNN_News18_NW18_MOB/output01/CNN_News18_NW18_MOB.m3u8
+
 #EXTINF:-1 tvg-name="Tez" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Tez.png" group-title="News",Tez
 https://tezlive-amd.akamaized.net/hls/live/2016145/gnt/gntlive/live_720p/chunks.m3u8
 
@@ -68,9 +71,6 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgt
 
 #EXTINF:-1 tvg-name="India Today" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_Today.png" group-title="News",India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8
-
-#EXTINF:-1 tvg-name="CNN News 18" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNN_NEWS_18.png" group-title="News",CNN News 18
-https://nw18live.cdn.jio.com/bpk-tv/CNN_News18_NW18_MOB/output01/CNN_News18_NW18_MOB.m3u8
 
 #EXTINF:-1 tvg-name="Times Now" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Times_NOW.png" group-title="News",Times Now
 https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/live_720p/chunks.m3u8
