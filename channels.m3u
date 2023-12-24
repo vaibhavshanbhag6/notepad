@@ -18,7 +18,7 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9kanmo6oiq/liveabr/pub-iotv9kanmo6o
 #EXTINF:-1 tvg-name="BTV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/BTV.png" group-title="News",BTV
 https://vidcdn.vidgyor.com/btv-origin/liveabr/btv-origin/live1/chunks.m3u8
 
-#EXTINF:-1 tvg-name="Suvarna News Kannada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Suvarna_News_New_Logo.jpg" group-title="News",Suvarna News Kannada
+#EXTINF:-1 tvg-name="Suvarna News Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Suvarna_News.png" group-title="News",Suvarna News Kannada
 https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live_360p/chunks.m3u8
 
 #EXTINF:-1 tvg-name="Republic Kannada" tvg-logo="https://img.republicworld.com/republic-prod/logo/169511698365096eb74a4f5.jpg" group-title="News",Republic Kannada
