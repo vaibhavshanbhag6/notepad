@@ -109,7 +109,7 @@ https://nw18live.cdn.jio.com/bpk-tv/CNBC_TV18_NW18_MOB/output01/CNBC_TV18_NW18_M
 https://livetv.sli.ke/etnow/master_1.m3u8
 
 #EXTINF:-1 tvg-name="TV9 Karnataka" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Karnataka.png" group-title="News",TV9 Karnataka
-https://tv9.vvsfkrt.workers.dev/stream/@tv9kannada/master.m3u8
+https://channels.vvsfkrt.workers.dev/@tv9kannada/channel.m3u8
 
 #EXTINF:-1 tvg-name="9XM" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png" group-title="Music",9XM
 https://dishtv-test.akamaized.net/111122/9xmusic/111122/9xmusic_1800/chunks.m3u8
