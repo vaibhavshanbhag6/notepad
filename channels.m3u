@@ -23,11 +23,9 @@ https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live_360p/chunk
 
 #EXTINF:-1 tvg-name="Republic Kannada" tvg-logo="https://img.republicworld.com/republic-prod/logo/169511698365096eb74a4f5.jpg" group-title="News",Republic Kannada
 https://rkannada.republicworld.com/republic/live/amlst:Kannada_live_,b1150,b1328,b2081,b5179,.smil/chunklist.m3u8
-#https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/dighvijay-origin/live1/chunks.m3u8
 
 #EXTINF:-1 tvg-name="Public TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Public_TV.png" group-title="News",Public TV
-https://livestream.knowtable.xyz:5443/show/streams/Publictv.m3u8
-#http://103.199.161.254/Content/publictv/Live/Channel(PublicTV)/index.m3u8
+https://livestream.knowtable.xyz:5443/show1/streams/Publictv.m3u8
 
 #EXTINF:-1 tvg-name="News18 Kannada News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Kannada_News.png" group-title="News",News 18 Kannada
 https://nw18live.cdn.jio.com/bpk-tv/News18_Kannada_NW18_MOB/output01/News18_Kannada_NW18.m3u8
