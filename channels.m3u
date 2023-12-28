@@ -114,7 +114,7 @@ https://livetv.sli.ke/etnow/master_1.m3u8
 https://dishtv-test.akamaized.net/111122/9xmusic/111122/9xmusic_1800/chunks.m3u8
 
 #EXTINF:-1 tvg-name="Zoom" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png" group-title="Music",Zoom
-https://dai.google.com/linear/hls/pb/event/JCAm25qkRXiKcK1AJMlvKQ/stream/de0261e9-2b47-423e-93d4-39bfcf29205e:SIN2/variant/2ef8de8fba992e6737628aa43068876c/bandwidth/2680000.m3u8
+https://dai.google.com/linear/hls/pb/event/JCAm25qkRXiKcK1AJMlvKQ/stream/b1f27ac5-0759-469b-978b-7a05f161ba9f:TPE/variant/2ef8de8fba992e6737628aa43068876c/bandwidth/2680000.m3u8
 
 #EXTINF:-1 tvg-name="MTV Beats HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="Music",MTV Beats HD
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/MTV_Beats_HD_voot_MOB.m3u8
