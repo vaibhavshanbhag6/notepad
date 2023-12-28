@@ -77,6 +77,9 @@ https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/live_720p/chunks.m
 #EXTINF:-1 tvg-name="Times Now Navbharat" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_Navbharat.png" group-title="News",Times Now Navbharat
 https://dp8vjjam4foas.cloudfront.net/master_1.m3u8
 
+#EXTINF:-1 tvg-name="India News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_news.png" group-title="News",India News
+https://livetv.newsx.com/itv/itvnetwork5/playlist.m3u8
+
 #EXTINF:-1 tvg-name="NDTV 24x7" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png" group-title="News",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8
 
