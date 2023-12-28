@@ -89,6 +89,9 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p
 #EXTINF:-1 tvg-name="ABC News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrt7_JPrn1TAucT85W7Ni22A2LTZM4jhdcSQ&usqp=CAU" group-title="News",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
+#EXTINF:-1 tvg-name="CNN US" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNN.png" group-title="News",CNN US
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
 #EXTINF:-1 tvg-name="FOX News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1024px-Fox_News_Channel_logo.svg.png" group-title="News",FOX News
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 
