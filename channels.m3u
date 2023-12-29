@@ -71,6 +71,12 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgt
 #EXTINF:-1 tvg-name="India Today" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_Today.png" group-title="News",India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8
 
+#EXTINF:-1 tvg-name="Abp Majha" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Majha.png" group-title="News",Abp Majha
+https://abplivetv.akamaized.net/hls/live/2043011/manjha/master_720p.m3u8
+
+#EXTINF:-1 tvg-name="TV9 Marathi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Maharashtra.png" group-title="News",TV9 Marathi
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/pub-iotv9marlygv8h/live_720p/chunks.m3u8
+
 #EXTINF:-1 tvg-name="Times Now" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Times_NOW.png" group-title="News",Times Now
 https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/live_720p/chunks.m3u8
 
