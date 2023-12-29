@@ -27,15 +27,15 @@ https://rkannada.republicworld.com/republic/live/amlst:Kannada_live_,b1150,b1328
 #EXTINF:-1 tvg-name="Public TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Public_TV.png" group-title="News",Public TV
 https://livestream.knowtable.xyz:5443/show1/streams/Publictv.m3u8
 
+#EXTINF:-1 tvg-name="TV5 Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV_5_Kannada.png" group-title="News",TV5 Kannada
+https://yuppmedtaorire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/tv5kannada_nim_https/a328ee7d-4f16-42d2-a742-069267287906/0.m3u8
+#https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/tv5kannada_nim_https/050522/tv5kannada/playlist.m3u8
+
 #EXTINF:-1 tvg-name="News18 Kannada News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Kannada_News.png" group-title="News",News 18 Kannada
 https://nw18live.cdn.jio.com/bpk-tv/News18_Kannada_NW18_MOB/output01/News18_Kannada_NW18.m3u8
 
 #EXTINF:-1 tvg-name="Zee Kannada News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Kannada_News.png" group-title="News",Zee Kannada News
 https://d3vzwoqcbpfm8p.cloudfront.net/index_4.m3u8
-
-#EXTINF:-1 tvg-name="TV5 Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV_5_Kannada.png" group-title="News",TV5 Kannada
-https://yuppmedtaorire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/tv5kannada_nim_https/a328ee7d-4f16-42d2-a742-069267287906/0.m3u8
-#https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/tv5kannada_nim_https/050522/tv5kannada/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Raj News Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Kannada.png" group-title="News",Raj News Kannada
 https://shivashri.livebox.co.in/rajnewskannadahls/live.m3u8
