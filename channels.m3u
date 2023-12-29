@@ -141,6 +141,9 @@ https://sabliveyupp.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453
 #EXTINF:-1 tvg-name="Music India" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png" group-title="Music",Music India
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Musicindia/default/musicindia.m3u8
 
+#EXTINF:-1 tvg-name="Brit Asia Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Brit_Asia.png" group-title="Music",Brit Asia Music
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/8fc80071-a537-499f-9680-1e3d761a2aea/1.m3u8
+
 #EXTINF:-1 tvg-name="Colors HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment",Colors HD
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/Colors_HD_voot_MOB.m3u8
 
