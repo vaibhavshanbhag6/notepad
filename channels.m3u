@@ -92,8 +92,8 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p
 #EXTINF:-1 tvg-name="Wion News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Wion.png" group-title="News",Wion News
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 
-##EXTINF:-1 tvg-name="Sky News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sky_News.png" group-title="News",Sky News
-#https://channels.vvsfkrt.workers.dev/skynews/channel.m3u8
+#EXTINF:-1 tvg-name="Sky News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sky_News.png" group-title="News",Sky News
+https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_hd/Live/channel(skynews)/index_mob.m3u8
 
 #EXTINF:-1 tvg-name="ABC News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrt7_JPrn1TAucT85W7Ni22A2LTZM4jhdcSQ&usqp=CAU" group-title="News",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
@@ -141,9 +141,6 @@ https://sabliveyupp.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453
 
 #EXTINF:-1 tvg-name="Music India" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png" group-title="Music",Music India
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Musicindia/default/musicindia.m3u8
-
-#EXTINF:-1 tvg-name="Brit Asia Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Brit_Asia.png" group-title="Music",Brit Asia Music
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/8fc80071-a537-499f-9680-1e3d761a2aea/1.m3u8
 
 #EXTINF:-1 tvg-name="Colors HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment",Colors HD
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/Colors_HD_voot_MOB.m3u8
