@@ -113,6 +113,9 @@ https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
 #EXTINF:-1 tvg-name="FOX News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1024px-Fox_News_Channel_logo.svg.png" group-title="News",FOX News
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 
+#EXTINF:-1 tvg-name="NBC Dateline" tvg-logo="https://images.squarespace-cdn.com/content/v1/5ab2a6912487fdfe40d28815/1521945520752-INS8BCVSCTNZ7CM99RIR/dateline-iphone6-2.jpg" group-title="News",NBC Dateline
+https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
+
 #EXTINF:-1 tvg-name="Bloomberg" tvg-logo="https://www.charteris.co.uk/wp-content/uploads/2019/07/bloomberg-news-logoorangebg.png" group-title="News",Bloomberg
 https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 
