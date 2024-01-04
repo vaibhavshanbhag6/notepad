@@ -104,7 +104,7 @@ http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN
 #EXTINF:-1 tvg-name="Al Jazeera English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AL_Jazeera.png" group-title="News",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1 tvg-name="ABC News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrt7_JPrn1TAucT85W7Ni22A2LTZM4jhdcSQ&usqp=CAU" group-title="News",ABC News
+#EXTINF:-1 tvg-name="ABC News" tvg-logo="https://shorturl.at/fxAJU" group-title="News",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 #EXTINF:-1 tvg-name="CNN US" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNN.png" group-title="News",CNN US
@@ -113,10 +113,10 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 #EXTINF:-1 tvg-name="CBS News" tvg-logo="https://i.imgur.com/nki2HDQ.png" tvg-id="CBSNews.us" group-title="News",CBS News
 https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
 
-#EXTINF:-1 tvg-name="FOX News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1024px-Fox_News_Channel_logo.svg.png" group-title="News",FOX News
+#EXTINF:-1 tvg-name="FOX News" tvg-logo="https://shorturl.at/fjvxT" group-title="News",FOX News
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 
-#EXTINF:-1 tvg-name="NBC Dateline" tvg-logo="https://images.squarespace-cdn.com/content/v1/5ab2a6912487fdfe40d28815/1521945520752-INS8BCVSCTNZ7CM99RIR/dateline-iphone6-2.jpg" group-title="News",NBC Dateline
+#EXTINF:-1 tvg-name="NBC Dateline" tvg-logo="https://shorturl.at/gjrS3" group-title="News",NBC Dateline
 https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
 
 #EXTINF:-1 tvg-name="Bloomberg" tvg-logo="https://www.charteris.co.uk/wp-content/uploads/2019/07/bloomberg-news-logoorangebg.png" group-title="News",Bloomberg
@@ -178,6 +178,15 @@ https://prod-sports-north-gm.jiocinema.com/bpk-tv/Comedy_Central_HD_voot_MOB/Fal
 
 #EXTINF:-1 tvg-name="MTV HD Plus" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="Entertainment",MTV HD Plus
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/MTV_HD_Plus_voot_MOB.m3u8
+
+#EXTINF:-1 tvg-name="Tennis Channel 1" tvg-logo="https://shorturl.at/bdwPQ" group-title="Sports",Tennis Channel 1
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Tennis Channel 2" tvg-logo="https://shorturl.at/bdwPQ" group-title="Sports",Tennis Channel 2
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Tennis Channel 3" tvg-logo="https://shorturl.at/bdwPQ" group-title="Sports",Tennis Channel 3
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Sony Ten 1 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports",Sony Ten 1 HD
 https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
