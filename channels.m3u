@@ -155,7 +155,7 @@ https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_Beats_voot_MOB/Fallback/MT
 #EXTINF:-1 tvg-name="Mastiii" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mastiii.png" group-title="Music",Mastii
 https://sabliveyupp.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/7a1b6aa5-c9b7-40e2-a66b-59858252f49e/2.m3u8
 
-#EXTINF:-1 tvg-name="V2BEAT Music" tvg-logo="https://cdn-profiles.tunein.com/s301079/images/logog.png" group-title="Music",V2BEAT Music
+#EXTINF:-1 tvg-name="V2Beat Music" tvg-logo="https://cdn-profiles.tunein.com/s301079/images/logog.png" group-title="Music",V2BEAT Music
 https://abr.de1se01.v2beat.live/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Music India" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png" group-title="Music",Music India
