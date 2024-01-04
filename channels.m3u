@@ -176,6 +176,9 @@ https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 #EXTINF:-1 tvg-name="Comedy Central HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png" group-title="Entertainment",Comedy Central HD
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Comedy_Central_HD_voot_MOB/Fallback/Comedy_Central_HD_voot_MOB.m3u8
 
+#EXTINF:-1 tvg-name="Comedy Dynamics" tvg-logo="https://shorturl.at/dsDJZ" group-title="Entertainment",Comedy Dynamics
+https://comedydynamics-tcl.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-name="MTV HD Plus" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="Entertainment",MTV HD Plus
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/MTV_HD_Plus_voot_MOB.m3u8
 
