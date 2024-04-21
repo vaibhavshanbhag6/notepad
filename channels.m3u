@@ -47,10 +47,10 @@ https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/ind
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 
 #EXTINF:-1 tvg-name="Republic TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png" group-title="News",Republic TV
-https://weblive.republicworld.com/httppush/ottr_republic_english/chunklist_3.m3u8
+https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8
 
 #EXTINF:-1 tvg-name="Republic Bharat" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_Bharat.png" group-title="News",Republic Bharat
-https://webliverb.republicworld.com/httppush/ottrb_republic_hindi/chunklist_3.m3u8
+https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8
 
 #EXTINF:-1 tvg-name="CNN News 18" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNN_NEWS_18.png" group-title="News",CNN News 18
 https://nw18live.cdn.jio.com/bpk-tv/CNN_News18_NW18_MOB/output01/CNN_News18_NW18_MOB.m3u8
