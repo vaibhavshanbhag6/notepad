@@ -20,7 +20,7 @@ https://vidcdn.vidgyor.com/btv-origin/liveabr/btv-origin/live1/chunks.m3u8
 https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live_360p/chunks.m3u8
 
 #EXTINF:-1 tvg-name="Republic Kannada" tvg-logo="https://img.republicworld.com/republic-prod/logo/169511698365096eb74a4f5.jpg" group-title="News",Republic Kannada
-https://rkannada.republicworld.com/republic/live/amlst:Kannada_live_,b1150,b1328,b2081,b5179,.smil/playlist.m3u8
+https://vg-republictvlive.akamaized.net/ptnr-republicweb/title-Republic_TV_Kannada/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/1acd1ce1-c6a7-4ae4-afa1-133ffb111ebb/32b61217-b1ca-46b9-a524-fca121116de3/3.m3u8
 
 #EXTINF:-1 tvg-name="Public TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Public_TV.png" group-title="News",Public TV
 https://livestream.knowtable.xyz:5443/show/streams/Publictv.m3u8
