@@ -138,8 +138,7 @@ https://sabliveyupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca141345377
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Musicindia/default/musicindia.m3u8
 
 #EXTINF:-1 tvg-name="LIVE M3U8" tvg-logo="https://play-lh.googleusercontent.com/VyywLrH_ztpJeYlOs27Q-W172BF6lQG3TEhRUpasOwA_orFCpHyOHQh_KaTjz4HwDDjirH5vkyPEEFZjKcewr9A=w480-h960-rw" group-title="LIVE M3U8",LIVE M3U8
-https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive2010/ENG/hdntl=exp=1792603851~acl=%2f*~id=375bf7f426954f188a41667ab7d590c3-1788973905868-170919162847155725~data=hdntl,2120303,Footlive2010,ENG~hmac=8cf221ce89fec452815f16ede8cb7d02a3c2a00de6dc20cae4f39247fa8cc1b8/master_2200.m3u8?aka_me_session_id=AAAAAAAAAADL9thqAAAAAHdRTVq8jZtYwjR9cewLb4T6xaQol7l9qOMdMNH2gRNQqHlcOaMX87+M5wmLp8H0TRxrykJA8D7e&aka_media_format_type=hls
-
+https://liveakdai.slivcdn.com/hls/live/20000094/cricodi_2010/ENG/hdntl=exp=1792603942~acl=%2f*~id=2c5a5114-5f5a-4a52-bb78-3b8993ff40ff~data=hdntl,20000094,cricodi_2010,ENG~hmac=852da9af5a6aad1ac4380d33e871a7de3e2c17cff6f93cbf35825af438591ed9/std_mdl-700300010_720_1196000.m3u8?originpath=/linear/hls/pb/event/-f2cIJkAQDC3V6YX8WAL2Q/stream/ae738c0a-482d-4c8e-95fc-6ea99b23f3dd:SIN/variant/6e7820d3cf6aff0d640c459866d36b60/bandwidth/1631696.m3u8
 #EXTINF:-1 tvg-name="Nick Pluto TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon.png" group-title="Kids",Nick Pluto TV
 https://dai.google.com/linear/hls/event/0HWMZ7VTTAi8C7Y35fcbgQ/master.m3u8
 
