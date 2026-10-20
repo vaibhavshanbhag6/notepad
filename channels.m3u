@@ -76,7 +76,7 @@ https://live-hls-web-aje-gcp.thehlive.com/AJE/03.m3u8
 #EXTINF:-1 tvg-name="CNN US" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNN.png" group-title="News",CNN US
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-name="NBC Dateline" tvg-logo="https://shorturl.at/gjrS3" group-title="News",NBC Dateline
+#EXTINF:-1 tvg-name="NBC Dateline" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mffIkmRh2i0bdUaHNH1rPr-A1raLpfrTMO2IW1daZ8qjk=s900-c-k-c0x00ffffff-no-rj" group-title="News",NBC Dateline
 https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
 
 #EXTINF:-1 tvg-name="CNBC Awaaz" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Awaaz.png" group-title="News",CNBC Awaaz
