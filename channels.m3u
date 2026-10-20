@@ -138,7 +138,8 @@ https://sabliveyupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca141345377
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Musicindia/default/musicindia.m3u8
 
 #EXTINF:-1 tvg-name="LIVE M3U8" tvg-logo="https://play-lh.googleusercontent.com/VyywLrH_ztpJeYlOs27Q-W172BF6lQG3TEhRUpasOwA_orFCpHyOHQh_KaTjz4HwDDjirH5vkyPEEFZjKcewr9A=w480-h960-rw" group-title="LIVE M3U8",LIVE M3U8
-https://liveakdai.slivcdn.com/hls/live/20000094/cricodi_2010/ENG/hdntl=exp=1792603942~acl=%2f*~id=2c5a5114-5f5a-4a52-bb78-3b8993ff40ff~data=hdntl,20000094,cricodi_2010,ENG~hmac=852da9af5a6aad1ac4380d33e871a7de3e2c17cff6f93cbf35825af438591ed9/std_mdl-700300010_720_1196000.m3u8?originpath=/linear/hls/pb/event/-f2cIJkAQDC3V6YX8WAL2Q/stream/ae738c0a-482d-4c8e-95fc-6ea99b23f3dd:SIN/variant/6e7820d3cf6aff0d640c459866d36b60/bandwidth/1631696.m3u8
+https://livecfdai-mp.slivcdn.com/out/v1/092728c9990d4be6b5e9cec3b2254655/std_mdl-700300010_48.m3u8?hdntl=exp=1792561041~acl=*~hmac=758287d033444dc427ae1546e2abcc724ba880560d5253f2fa89062489106b5b&originpath=/linear/hls/pb/event/_c90QnBoT3W_n44-RlwzQw/stream/6ee242d5-412c-4d34-bf95-e5cd575be022:TPE/variant/069cb6029a17c862fe02dd1da2311d28/bandwidth/1663169.m3u8
+
 #EXTINF:-1 tvg-name="Nick Pluto TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon.png" group-title="Kids",Nick Pluto TV
 https://dai.google.com/linear/hls/event/0HWMZ7VTTAi8C7Y35fcbgQ/master.m3u8
 
