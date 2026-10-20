@@ -137,6 +137,9 @@ https://sabliveyupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca141345377
 #EXTINF:-1 tvg-name="Music India" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png" group-title="Music",Music India
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Musicindia/default/musicindia.m3u8
 
+#EXTINF:-1 tvg-name="LIVE M3U8" tvg-logo="https://play-lh.googleusercontent.com/VyywLrH_ztpJeYlOs27Q-W172BF6lQG3TEhRUpasOwA_orFCpHyOHQh_KaTjz4HwDDjirH5vkyPEEFZjKcewr9A=w480-h960-rw" group-title="LIVE M3U8",LIVE M3U8
+https://livecfdai-mp.slivcdn.com/out/v1/092728c9990d4be6b5e9cec3b2254655/std_mdl-700300010_47.m3u8?hdntl=exp=1792560082~acl=*~hmac=119bc8c3daa1b08cc859a79968a9cdab99d640a454398577fa06094484796295&originpath=/linear/hls/pb/event/_c90QnBoT3W_n44-RlwzQw/stream/63e4253d-5dba-42a3-a5c6-dba6a8ba09af:TPE/variant/68403bdcb46627f0e7bd80286edd338a/bandwidth/813120.m3u8
+
 #EXTINF:-1 tvg-name="Nick Pluto TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon.png" group-title="Kids",Nick Pluto TV
 https://dai.google.com/linear/hls/event/0HWMZ7VTTAi8C7Y35fcbgQ/master.m3u8
 
