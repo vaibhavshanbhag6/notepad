@@ -4,8 +4,8 @@ https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720
 #https://feeds.intoday.in/aajtak/api/master.m3u8
 
 #EXTINF:-1 tvg-name="Aaj Tak HD" tvg-logo="https://i.ibb.co/QDsZHjW/aajhd-removebg-preview.png" group-title="News",Aaj Tak HD
-#https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_720p/chunks.m3u8
-https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_720p/chunks.m3u8
+#https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 
 #EXTINF:-1 tvg-name="Abp News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="News",Abp News
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master_720.m3u8
@@ -96,6 +96,14 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannel
 
 #EXTINF:-1 tvg-name="LIVE M3U8" tvg-logo="https://play-lh.googleusercontent.com/VyywLrH_ztpJeYlOs27Q-W172BF6lQG3TEhRUpasOwA_orFCpHyOHQh_KaTjz4HwDDjirH5vkyPEEFZjKcewr9A=w480-h960-rw" group-title="LIVE M3U8",LIVE M3U8
 https://liveakdai.slivcdn.com/hls/live/2119931/cricodi_2210/ENG/std_mdl-700300010.m3u8?hdnea=st=1792652960~exp=1792653260~acl=*~id=29f2e795-cf7b-4d36-8615-898c2bb96cbd~hmac=479b28d3339948fef3ed2fadaa16cd9b72349b120159e4687006a097ba9e2fbd&originpath=/linear/hls/pb/event/dbpLNriASFGe1kkUv43Hxw/stream/d3485bc7-4894-4593-a8b2-7f6c6f37f52e:SIN/master.m3u8
+
+
+
+
+
+
+
+
 
 
 
